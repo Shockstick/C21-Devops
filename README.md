@@ -2,7 +2,7 @@
 
 In deze module leer de basis van versiebeheer met **Git**, **Github** en de **Visual Studio Code** editor van Microsoft. Daarnaast leer je hoe je eventuele starterscode die bij een module hoort download en hoe je je gemaakte werk inlevert via Github en in Canvas.
 
-## Uitleg
+## Uitleg hgfdeedhywf
 
 Tot nu toe heb je al je werk gemaakt en ingeleverd via Canvas. Dit werkt goed als je bijvoorbeeld tekst moet invullen als antwoord op een opdracht. Of een enkel bestand moet uploaden zoals een screenshot of PDF document. 
 
